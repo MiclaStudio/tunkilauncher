@@ -33,7 +33,7 @@
     "loadder": {
       "minecraft_version": "1.21",
       "loadder_type": "none",
-      "loadder_version": "latest"
+      "loadder_version": "none"
     },
     "verify": true,
     "ignored": [
@@ -50,8 +50,8 @@
     "whitelist": [],
     "whitelistActive": false,
     "status": {
-      "nameServer": "El hoyo",
-      "ip": "",
+      "nameServer": "Gymrats",
+      "ip": "Gymratas.exaroton.me",
       "port": 25565
     },
     "ui": {
