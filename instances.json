@@ -1,5 +1,5 @@
 {
-   "Los compas2": {
+  "Los compas2": {
     "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas/files.json",
     "loadder": {
       "minecraft_version": "1.21.1",
@@ -26,6 +26,37 @@
       "badge": "Nuevo",
       "color": "#ff0000",
       "featured": true
+    }
+  },
+  "El hoyo": {
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas/files.json",
+    "loadder": {
+      "minecraft_version": "1.21",
+      "loadder_type": "none",
+      "loadder_version": "latest"
+    },
+    "verify": true,
+    "ignored": [
+      "saves",
+      "screenshots",
+      "logs",
+      "crash-reports",
+      "resourcepacks",
+      "shaderpacks",
+      "servers.dat",
+      "options.txt",
+      "optionsof.txt"
+    ],
+    "whitelist": [],
+    "whitelistActive": false,
+    "status": {
+      "nameServer": "El hoyo",
+      "ip": "",
+      "port": 25565
+    },
+    "ui": {
+      "tagline": "sobrevive",
+      "color": "#2e7d32"
     }
   }
 }
