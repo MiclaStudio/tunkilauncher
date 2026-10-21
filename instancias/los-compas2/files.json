@@ -1,500 +1,488 @@
 [
   {
-    "path": "manifest.json",
-    "hash": "2093dd6430973000c4785af0ab61352cb17b1dfe",
-    "size": 5542,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/manifest.json"
-  },
-  {
-    "path": "modlist.html",
-    "hash": "d8921191dbab0db0a19c5420a844b38b02109312",
-    "size": 6570,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/modlist.html"
-  },
-  {
-    "path": "overrides/VANILLA LOVERNITE.ico",
+    "path": "VANILLA LOVERNITE.ico",
     "hash": "e5665d2d3ee2b6cd895a6c62e0527cba16a69a95",
     "size": 3787323,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/VANILLA%20LOVERNITE.ico"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/VANILLA%20LOVERNITE.ico"
   },
   {
-    "path": "overrides/config/CoroUtil/General.toml",
+    "path": "config/CoroUtil/General.toml",
     "hash": "5591e4868d6f01b3c66c308869f1f180728b2eef",
     "size": 133,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/CoroUtil/General.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/CoroUtil/General.toml"
   },
   {
-    "path": "overrides/config/advancementplaques-common.toml",
+    "path": "config/advancementplaques-common.toml",
     "hash": "a8e3e2fd8d86879c8a88aae5adf0fb0e143bbd0c",
     "size": 3024,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/advancementplaques-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/advancementplaques-common.toml"
   },
   {
-    "path": "overrides/config/ambientsounds-client.json",
+    "path": "config/ambientsounds-client.json",
     "hash": "1299bf43a890c08cd86dda919a25bb8c944dbbde",
     "size": 4083,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/ambientsounds-client.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/ambientsounds-client.json"
   },
   {
-    "path": "overrides/config/appleskin-client.toml",
+    "path": "config/appleskin-client.toml",
     "hash": "b4e86d6354c33b1de20db6672f2f8e93cd084fac",
     "size": 1361,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/appleskin-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/appleskin-client.toml"
   },
   {
-    "path": "overrides/config/aquaculture-common.toml",
+    "path": "config/aquaculture-common.toml",
     "hash": "7256a7dea1223ddc1b6e54ad3ac7a3aea5f5c175",
     "size": 825,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/aquaculture-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/aquaculture-common.toml"
   },
   {
-    "path": "overrides/config/balm-common.toml",
+    "path": "config/balm-common.toml",
     "hash": "d658b683f7a01a8d892af452f2ef8c3d3dd04c57",
     "size": 553,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/balm-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/balm-common.toml"
   },
   {
-    "path": "overrides/config/betterarcheology-common.toml",
+    "path": "config/betterarcheology-common.toml",
     "hash": "3e07e5e735c1675cbbffec9188e1306c92307340",
     "size": 4734,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/betterarcheology-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/betterarcheology-common.toml"
   },
   {
-    "path": "overrides/config/bettervillage_1.properties",
+    "path": "config/bettervillage_1.properties",
     "hash": "64f0603c46fa9731de9c70c452e4cbd326c5ebe5",
     "size": 270,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/bettervillage_1.properties"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/bettervillage_1.properties"
   },
   {
-    "path": "overrides/config/cfm-client.toml",
+    "path": "config/cfm-client.toml",
     "hash": "3eb32f3a010bb235fd71edb17fc9943df5340f7a",
     "size": 190,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/cfm-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/cfm-client.toml"
   },
   {
-    "path": "overrides/config/cfm-common.toml",
+    "path": "config/cfm-common.toml",
     "hash": "cd0fd1108e7eb08a1b1f4fce9f7dde7042548783",
     "size": 259,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/cfm-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/cfm-common.toml"
   },
   {
-    "path": "overrides/config/cmdcam-client.json",
+    "path": "config/cmdcam-client.json",
     "hash": "109e8bdbbbdb5bee6d2d7d0a39f1463e971960e9",
     "size": 24,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/cmdcam-client.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/cmdcam-client.json"
   },
   {
-    "path": "overrides/config/colytra-server.toml",
+    "path": "config/colytra-server.toml",
     "hash": "49dc7c70acaabab0ab6e34b481eddc134c2ef9fe",
     "size": 704,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/colytra-server.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/colytra-server.toml"
   },
   {
-    "path": "overrides/config/connector.json",
+    "path": "config/connector.json",
     "hash": "23753ccb810b4975165448040217d5c5d55a8322",
     "size": 144,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/connector.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/connector.json"
   },
   {
-    "path": "overrides/config/cosmeticarmorreworked-client.toml",
+    "path": "config/cosmeticarmorreworked-client.toml",
     "hash": "ae16b9d64e0ce6a136e8feb2533859729fb4daf9",
     "size": 1230,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/cosmeticarmorreworked-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/cosmeticarmorreworked-client.toml"
   },
   {
-    "path": "overrides/config/cosmeticarmorreworked-common.toml",
+    "path": "config/cosmeticarmorreworked-common.toml",
     "hash": "1c8e89f7f3f6a305ca79dd5b32511aea9c6a6f36",
     "size": 379,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/cosmeticarmorreworked-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/cosmeticarmorreworked-common.toml"
   },
   {
-    "path": "overrides/config/dynamiclights.cfg",
+    "path": "config/dynamiclights.cfg",
     "hash": "052893e43cf26bda271228adcc738c1a511fb2eb",
     "size": 65,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/dynamiclights.cfg"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/dynamiclights.cfg"
   },
   {
-    "path": "overrides/config/dynamiclights_droppeditems.cfg",
+    "path": "config/dynamiclights_droppeditems.cfg",
     "hash": "b3cc0c5c177d114ae7d2e66c1531dc552eb2bbf3",
     "size": 196,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/dynamiclights_droppeditems.cfg"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/dynamiclights_droppeditems.cfg"
   },
   {
-    "path": "overrides/config/dynamiclights_selflight.cfg",
+    "path": "config/dynamiclights_selflight.cfg",
     "hash": "b3cc0c5c177d114ae7d2e66c1531dc552eb2bbf3",
     "size": 196,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/dynamiclights_selflight.cfg"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/dynamiclights_selflight.cfg"
   },
   {
-    "path": "overrides/config/embeddium-fingerprint.json",
+    "path": "config/embeddium-fingerprint.json",
     "hash": "337ff6c846a47120f05080312bbadd82ce7599dc",
     "size": 427,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/embeddium-fingerprint.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/embeddium-fingerprint.json"
   },
   {
-    "path": "overrides/config/embeddium-mixins.properties",
+    "path": "config/embeddium-mixins.properties",
     "hash": "a729ee50d18cf2204ff9fc33bc21641d55185c88",
     "size": 269,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/embeddium-mixins.properties"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/embeddium-mixins.properties"
   },
   {
-    "path": "overrides/config/embeddium-options.json",
+    "path": "config/embeddium-options.json",
     "hash": "6e078ef2790bb787606558336b9e5cae51cadefa",
     "size": 846,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/embeddium-options.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/embeddium-options.json"
   },
   {
-    "path": "overrides/config/enchdesc.json",
+    "path": "config/enchdesc.json",
     "hash": "171e9e9bf1c0eb070d19730bf2eb2a2e049bfbbb",
     "size": 189,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/enchdesc.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/enchdesc.json"
   },
   {
-    "path": "overrides/config/explorerscompass-client.toml",
+    "path": "config/explorerscompass-client.toml",
     "hash": "ffd01f3a181ce8b09418d66545e68c8f28a20e9e",
     "size": 503,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/explorerscompass-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/explorerscompass-client.toml"
   },
   {
-    "path": "overrides/config/explorerscompass-common.toml",
+    "path": "config/explorerscompass-common.toml",
     "hash": "4c58ac3f88741c0b48f2d12fa74910de78cde6b2",
     "size": 980,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/explorerscompass-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/explorerscompass-common.toml"
   },
   {
-    "path": "overrides/config/fabric/indigo-renderer.properties",
+    "path": "config/fabric/indigo-renderer.properties",
     "hash": "af4a81e3c7a161c1a1f19dd07a10c42990d19133",
     "size": 290,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/fabric/indigo-renderer.properties"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/fabric/indigo-renderer.properties"
   },
   {
-    "path": "overrides/config/farmersdelight-client.toml",
+    "path": "config/farmersdelight-client.toml",
     "hash": "7109adf50788f4bf5797dd3809ad0dc923c8f023",
     "size": 369,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/farmersdelight-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/farmersdelight-client.toml"
   },
   {
-    "path": "overrides/config/farmersdelight-common.toml",
+    "path": "config/farmersdelight-common.toml",
     "hash": "66e1beb4f05953c76367f6a072be77ba98604e2c",
     "size": 4540,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/farmersdelight-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/farmersdelight-common.toml"
   },
   {
-    "path": "overrides/config/fml.toml",
+    "path": "config/fml.toml",
     "hash": "726869383a0dd9368201319b75b902b2e5c8207f",
     "size": 1148,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/fml.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/fml.toml"
   },
   {
-    "path": "overrides/config/forge-client.toml",
+    "path": "config/forge-client.toml",
     "hash": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1",
     "size": 1628,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/forge-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/forge-client.toml"
   },
   {
-    "path": "overrides/config/gravestone-client.toml",
+    "path": "config/gravestone-client.toml",
     "hash": "ddc101ce6f1f93f76645afb9cbe25f0469289130",
     "size": 217,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/gravestone-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/gravestone-client.toml"
   },
   {
-    "path": "overrides/config/harvest_with_ease-common.toml",
+    "path": "config/harvest_with_ease-common.toml",
     "hash": "eebea7bb1593ca6d195a44136e6171ea5c168ba2",
     "size": 3785,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/harvest_with_ease-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/harvest_with_ease-common.toml"
   },
   {
-    "path": "overrides/config/inventoryprofilesnext/MINECRAFT/villager-trading-config.json",
+    "path": "config/inventoryprofilesnext/MINECRAFT/villager-trading-config.json",
     "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f",
     "size": 1177,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/inventoryprofilesnext/MINECRAFT/villager-trading-config.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/inventoryprofilesnext/MINECRAFT/villager-trading-config.json"
   },
   {
-    "path": "overrides/config/inventoryprofilesnext/Mundo nuevo/villager-trading-config.json",
+    "path": "config/inventoryprofilesnext/Mundo nuevo/villager-trading-config.json",
     "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f",
     "size": 1177,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/inventoryprofilesnext/Mundo%20nuevo/villager-trading-config.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/inventoryprofilesnext/Mundo%20nuevo/villager-trading-config.json"
   },
   {
-    "path": "overrides/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+    "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
     "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b",
     "size": 1450,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
   },
   {
-    "path": "overrides/config/inventoryprofilesnext/inventoryprofiles.json",
+    "path": "config/inventoryprofilesnext/inventoryprofiles.json",
     "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9",
     "size": 57,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/inventoryprofilesnext/inventoryprofiles.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/inventoryprofilesnext/inventoryprofiles.json"
   },
   {
-    "path": "overrides/config/jei/blacklist.cfg",
+    "path": "config/jei/blacklist.cfg",
     "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "size": 0,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/jei/blacklist.cfg"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/jei/blacklist.cfg"
   },
   {
-    "path": "overrides/config/jei/ingredient-list-mod-sort-order.ini",
+    "path": "config/jei/ingredient-list-mod-sort-order.ini",
     "hash": "8032db8f8f94dbd5d92678cb117b36c243d148a8",
     "size": 324,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/jei/ingredient-list-mod-sort-order.ini"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/jei/ingredient-list-mod-sort-order.ini"
   },
   {
-    "path": "overrides/config/jei/ingredient-list-type-sort-order.ini",
+    "path": "config/jei/ingredient-list-type-sort-order.ini",
     "hash": "dc48be3ecfb2cd9c06a53712b3044f8123a6c06e",
     "size": 74,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/jei/ingredient-list-type-sort-order.ini"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/jei/ingredient-list-type-sort-order.ini"
   },
   {
-    "path": "overrides/config/jei/jei-client.ini",
+    "path": "config/jei/jei-client.ini",
     "hash": "7b6b55b6b15c8fd620cf8c28a3e1ae13e32ba86e",
     "size": 7878,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/jei/jei-client.ini"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/jei/jei-client.ini"
   },
   {
-    "path": "overrides/config/jei/jei-colors.ini",
+    "path": "config/jei/jei-colors.ini",
     "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4",
     "size": 1337,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/jei/jei-colors.ini"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/jei/jei-colors.ini"
   },
   {
-    "path": "overrides/config/jei/jei-debug.ini",
+    "path": "config/jei/jei-debug.ini",
     "hash": "7d04ccc7bd4524d1a7d63a624249ea5cd9db5276",
     "size": 913,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/jei/jei-debug.ini"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/jei/jei-debug.ini"
   },
   {
-    "path": "overrides/config/jei/jei-mod-id-format.ini",
+    "path": "config/jei/jei-mod-id-format.ini",
     "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7",
     "size": 416,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/jei/jei-mod-id-format.ini"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/jei/jei-mod-id-format.ini"
   },
   {
-    "path": "overrides/config/jei/recipe-category-sort-order.ini",
+    "path": "config/jei/recipe-category-sort-order.ini",
     "hash": "149825f6f8e4d3a4971d89093344bb1db17a701a",
     "size": 490,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/jei/recipe-category-sort-order.ini"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/jei/recipe-category-sort-order.ini"
   },
   {
-    "path": "overrides/config/jeresources-common.toml",
+    "path": "config/jeresources-common.toml",
     "hash": "6aa78dcf4043839e101c0b116a05d6e936272585",
     "size": 236,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/jeresources-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/jeresources-common.toml"
   },
   {
-    "path": "overrides/config/jeresources.toml",
+    "path": "config/jeresources.toml",
     "hash": "5488c358d2c0aa830e73bc9795a1a18c36256407",
     "size": 236,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/jeresources.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/jeresources.toml"
   },
   {
-    "path": "overrides/config/justzoom/config.txt",
+    "path": "config/justzoom/config.txt",
     "hash": "aabfe2485bee7a98ee70c31aa1a8dfc0b121f22b",
     "size": 781,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/justzoom/config.txt"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/justzoom/config.txt"
   },
   {
-    "path": "overrides/config/konkrete/locals/de_de.local",
+    "path": "config/konkrete/locals/de_de.local",
     "hash": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
     "size": 369,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/konkrete/locals/de_de.local"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/konkrete/locals/de_de.local"
   },
   {
-    "path": "overrides/config/konkrete/locals/en_us.local",
+    "path": "config/konkrete/locals/en_us.local",
     "hash": "42badc338e767559db38a67bd3e8020a92000e56",
     "size": 426,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/konkrete/locals/en_us.local"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/konkrete/locals/en_us.local"
   },
   {
-    "path": "overrides/config/konkrete/locals/pl_pl.local",
+    "path": "config/konkrete/locals/pl_pl.local",
     "hash": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
     "size": 313,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/konkrete/locals/pl_pl.local"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/konkrete/locals/pl_pl.local"
   },
   {
-    "path": "overrides/config/konkrete/locals/pt_br.local",
+    "path": "config/konkrete/locals/pt_br.local",
     "hash": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
     "size": 322,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/konkrete/locals/pt_br.local"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/konkrete/locals/pt_br.local"
   },
   {
-    "path": "overrides/config/libraryferret_1.properties",
+    "path": "config/libraryferret_1.properties",
     "hash": "377d9911a9bbcff4a3975152afe78d5503af854b",
     "size": 193,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/libraryferret_1.properties"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/libraryferret_1.properties"
   },
   {
-    "path": "overrides/config/mowziesmobs-client.toml",
+    "path": "config/mowziesmobs-client.toml",
     "hash": "6bc3309d4a30764cc565aecf872c61bc074db30a",
     "size": 984,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/mowziesmobs-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/mowziesmobs-client.toml"
   },
   {
-    "path": "overrides/config/mowziesmobs-common.toml",
+    "path": "config/mowziesmobs-common.toml",
     "hash": "4e26e93cbf1a49b5b414b5394d5d607568a2473d",
     "size": 32787,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/mowziesmobs-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/mowziesmobs-common.toml"
   },
   {
-    "path": "overrides/config/naturescompass-client.toml",
+    "path": "config/naturescompass-client.toml",
     "hash": "9572a3ae9de126cf0eceb382cf3ceb11c0cbc6e4",
     "size": 432,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/naturescompass-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/naturescompass-client.toml"
   },
   {
-    "path": "overrides/config/naturescompass-common.toml",
+    "path": "config/naturescompass-common.toml",
     "hash": "095abcfd7de9e2ce5dc7b3288a91cf5e1cd91e8d",
     "size": 1142,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/naturescompass-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/naturescompass-common.toml"
   },
   {
-    "path": "overrides/config/oculus.properties",
+    "path": "config/oculus.properties",
     "hash": "506d2340153a01a2627ca955d6a7d15f136f1947",
     "size": 286,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/oculus.properties"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/oculus.properties"
   },
   {
-    "path": "overrides/config/ribbits-forge-1_20_1.toml",
+    "path": "config/ribbits-forge-1_20_1.toml",
     "hash": "cb4a231865948956fb098094eeb1b6b5f951c380",
     "size": 420,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/ribbits-forge-1_20_1.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/ribbits-forge-1_20_1.toml"
   },
   {
-    "path": "overrides/config/ribbits-options.json",
+    "path": "config/ribbits-options.json",
     "hash": "5c46abd638cfc5358ba7a469f87fd64d7050f4be",
     "size": 33,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/ribbits-options.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/ribbits-options.json"
   },
   {
-    "path": "overrides/config/sophisticatedbackpacks-common.toml",
+    "path": "config/sophisticatedbackpacks-common.toml",
     "hash": "300cb0348cbb41fb48bab6849802495881fc9b93",
     "size": 122,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/sophisticatedbackpacks-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/sophisticatedbackpacks-common.toml"
   },
   {
-    "path": "overrides/config/sophisticatedcore-client.toml",
+    "path": "config/sophisticatedcore-client.toml",
     "hash": "f6f59485a1bf80c76da0a53d3be2bd9c4ee79e61",
     "size": 351,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/sophisticatedcore-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/sophisticatedcore-client.toml"
   },
   {
-    "path": "overrides/config/sophisticatedcore-common.toml",
+    "path": "config/sophisticatedcore-common.toml",
     "hash": "0862ecf4494555e3d934be4ac56a5e4914c07b89",
     "size": 2981,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/sophisticatedcore-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/sophisticatedcore-common.toml"
   },
   {
-    "path": "overrides/config/torchmaster.toml",
+    "path": "config/torchmaster.toml",
     "hash": "9ceb1a3f640ef519e8fbfbc7570a9cfdb0390fa5",
     "size": 2606,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/torchmaster.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/torchmaster.toml"
   },
   {
-    "path": "overrides/config/travelerstitles-forge-1_20.toml",
+    "path": "config/travelerstitles-forge-1_20.toml",
     "hash": "2b8e151c27fe53cbc25da3ef384e8cd85e75f763",
     "size": 10709,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/travelerstitles-forge-1_20.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/travelerstitles-forge-1_20.toml"
   },
   {
-    "path": "overrides/config/treechop-client.toml",
+    "path": "config/treechop-client.toml",
     "hash": "8f2a3ff93e018e49dae1556699c0b01e222cec35",
     "size": 1625,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/treechop-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/treechop-client.toml"
   },
   {
-    "path": "overrides/config/treechop-common.toml",
+    "path": "config/treechop-common.toml",
     "hash": "9469ce19608e6b6f6f45ae54cac78adbda92ac9d",
     "size": 8869,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/treechop-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/treechop-common.toml"
   },
   {
-    "path": "overrides/config/watut-client.toml",
+    "path": "config/watut-client.toml",
     "hash": "33ae71610a948dcf58759ce195a4e7dd404ae522",
     "size": 3236,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/watut-client.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/watut-client.toml"
   },
   {
-    "path": "overrides/config/watut-common.toml",
+    "path": "config/watut-common.toml",
     "hash": "d3e0021b6085144229ef72fe350a0fcd4bda4a41",
     "size": 154,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/watut-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/watut-common.toml"
   },
   {
-    "path": "overrides/config/watut-item-arm-adjustments.json",
+    "path": "config/watut-item-arm-adjustments.json",
     "hash": "2cfa88c57c35df26af1391acb7f2f8eb8abd53ab",
     "size": 3367,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/watut-item-arm-adjustments.json"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/watut-item-arm-adjustments.json"
   },
   {
-    "path": "overrides/config/watut-server.toml",
+    "path": "config/watut-server.toml",
     "hash": "d2f0dac6010bcb94c8a46e71f609aeb6b3acc53d",
     "size": 2880,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/watut-server.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/watut-server.toml"
   },
   {
-    "path": "overrides/config/waystones-common.toml",
+    "path": "config/waystones-common.toml",
     "hash": "17b6d3f79de5d33f509c26fbe3614c56cfc292a6",
     "size": 7824,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/config/waystones-common.toml"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/config/waystones-common.toml"
   },
   {
-    "path": "overrides/mods/.connector/noweathereffects-1.7.0_mapped_srg_1.20.1.jar",
+    "path": "mods/.connector/noweathereffects-1.7.0_mapped_srg_1.20.1.jar",
     "hash": "18e4b0a1c5752e2685f7da84c5fd86ac31dddc66",
     "size": 16242,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/mods/.connector/noweathereffects-1.7.0_mapped_srg_1.20.1.jar"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/mods/.connector/noweathereffects-1.7.0_mapped_srg_1.20.1.jar"
   },
   {
-    "path": "overrides/mods/.connector/noweathereffects-1.7.0_mapped_srg_1.20.1.jar.input",
+    "path": "mods/.connector/noweathereffects-1.7.0_mapped_srg_1.20.1.jar.input",
     "hash": "79414525300a0962c7d129c432ba14d26455b6d2",
     "size": 92,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/mods/.connector/noweathereffects-1.7.0_mapped_srg_1.20.1.jar.input"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/mods/.connector/noweathereffects-1.7.0_mapped_srg_1.20.1.jar.input"
   },
   {
-    "path": "overrides/mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$lambdynamiclights-api-4.1.0+1.20.1.jar",
+    "path": "mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$lambdynamiclights-api-4.1.0+1.20.1.jar",
     "hash": "43f1298d50b7b954688a48a4e1c38140cd6cb5f7",
     "size": 127845,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24lambdynamiclights-api-4.1.0%2B1.20.1.jar"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24lambdynamiclights-api-4.1.0%2B1.20.1.jar"
   },
   {
-    "path": "overrides/mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$lambdynamiclights-api-4.1.0+1.20.1.jar.input",
+    "path": "mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$lambdynamiclights-api-4.1.0+1.20.1.jar.input",
     "hash": "bac8ba7c4a38a6761d9eb33654085b4802a4a34b",
     "size": 92,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24lambdynamiclights-api-4.1.0%2B1.20.1.jar.input"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24lambdynamiclights-api-4.1.0%2B1.20.1.jar.input"
   },
   {
-    "path": "overrides/mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$pridelib-1.2.0+1.19.4.jar",
+    "path": "mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$pridelib-1.2.0+1.19.4.jar",
     "hash": "2bf69d83532c6eae8b9ba300bd5d45626f37dd2f",
     "size": 18827,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24pridelib-1.2.0%2B1.19.4.jar"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24pridelib-1.2.0%2B1.19.4.jar"
   },
   {
-    "path": "overrides/mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$pridelib-1.2.0+1.19.4.jar.input",
+    "path": "mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$pridelib-1.2.0+1.19.4.jar.input",
     "hash": "12b130e648b65697865209a4c8972f23717457d4",
     "size": 92,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24pridelib-1.2.0%2B1.19.4.jar.input"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24pridelib-1.2.0%2B1.19.4.jar.input"
   },
   {
-    "path": "overrides/mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$spruceui-6.2.1+1.20.jar",
+    "path": "mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$spruceui-6.2.1+1.20.jar",
     "hash": "6841894e9341274cc144e12a11912105077fa297",
     "size": 233703,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24spruceui-6.2.1%2B1.20.jar"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24spruceui-6.2.1%2B1.20.jar"
   },
   {
-    "path": "overrides/mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$spruceui-6.2.1+1.20.jar.input",
+    "path": "mods/.connector/temp/lambdynamiclights-4.1.0+1.20.1$spruceui-6.2.1+1.20.jar.input",
     "hash": "f0d5ed467ddf1b97a7ea02b33d6520c0697c54ce",
     "size": 92,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24spruceui-6.2.1%2B1.20.jar.input"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/mods/.connector/temp/lambdynamiclights-4.1.0%2B1.20.1%24spruceui-6.2.1%2B1.20.jar.input"
   },
   {
-    "path": "overrides/mods/betterarcheology-1.2.1-1.20.1.jar",
+    "path": "mods/betterarcheology-1.2.1-1.20.1.jar",
     "hash": "b68c4e5730a21dfbc4035899951c2d577498f22d",
     "size": 979949,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/mods/betterarcheology-1.2.1-1.20.1.jar"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/mods/betterarcheology-1.2.1-1.20.1.jar"
   },
   {
-    "path": "overrides/shaderpacks/ComplementaryReimagined_r5.0.zip.txt",
+    "path": "shaderpacks/ComplementaryReimagined_r5.0.zip.txt",
     "hash": "eb971800894694b93a439417c2c17693b6e9b619",
     "size": 235,
-    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/overrides/shaderpacks/ComplementaryReimagined_r5.0.zip.txt"
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/los-compas2/shaderpacks/ComplementaryReimagined_r5.0.zip.txt"
   }
 ]
