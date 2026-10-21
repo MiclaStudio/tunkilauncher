@@ -7,7 +7,13 @@
       "loadder_version": "latest"
     },
     "verify": false,
-    "ignored": [],
+    "ignored": [
+      "config",
+      "logs",
+      "resourcepacks",
+      "options.txt",
+      "optionsof.txt"
+    ],
     "whitelist": [],
     "whitelistActive": false,
     "status": {
@@ -19,8 +25,7 @@
       "tagline": "Un servidor con mods para los compas",
       "badge": "Nuevo",
       "color": "#ff0000",
-      "image": "https://cdn.discordapp.com/attachments/1208614564912959558/1562231616603037787/AB5CF85C-FBBB-43DD-A955-FC6D74E5DC38.png?ex=6ad93d12&is=6ad7eb92&hm=aecf8f7b12d11ea2e6c903510768bcfa61053b7d4d3af47ad836678d11fe5dd8&",
-      "featured": true
+      "image": "https://cdn.discordapp.com/attachments/1208614564912959558/1562231616603037787/AB5CF85C-FBBB-43DD-A955-FC6D74E5DC38.png?ex=6ad93d12&is=6ad7eb92&hm=aecf8f7b12d11ea2e6c903510768bcfa61053b7d4d3af47ad836678d11fe5dd8&"
     }
   },
   "gymratas": {
@@ -52,6 +57,39 @@
     "ui": {
       "tagline": "sobrevive",
       "color": "#5a03fc"
+    }
+  },
+  "Planeta Vegeta777": {
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/planetav/files.json",
+    "loadder": {
+      "minecraft_version": "1.20.1",
+      "loadder_type": "forge",
+      "loadder_version": "latest"
+    },
+    "verify": true,
+    "ignored": [
+      "saves",
+      "screenshots",
+      "logs",
+      "crash-reports",
+      "resourcepacks",
+      "shaderpacks",
+      "servers.dat",
+      "options.txt",
+      "optionsof.txt"
+    ],
+    "whitelist": [],
+    "whitelistActive": false,
+    "status": {
+      "nameServer": "planetavegeta777",
+      "ip": "planetavegeta777.exaroton.me",
+      "port": 63035
+    },
+    "ui": {
+      "tagline": "Revive esos tiempos de cuando no chambiabas",
+      "color": "#831cba",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/915/894/256/256/638374188324884907.png",
+      "featured": true
     }
   }
 }
