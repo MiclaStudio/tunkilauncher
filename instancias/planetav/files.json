@@ -4554,6 +4554,12 @@
     "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/planetav/mods/vanillabackport-forge-1.20.1-1.1.4.3.jar"
   },
   {
+    "path": "mods/voicechat-forge-1.20.1-2.6.6.jar",
+    "hash": "476a9c4be9c77dac629697c749de96a88cda881c",
+    "size": 4889296,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/planetav/mods/voicechat-forge-1.20.1-2.6.6.jar"
+  },
+  {
     "path": "mods/waterframes-FORGE-mc1.20.1-v2.1.15.jar",
     "hash": "d6d3ef3b04c4d1135d9eac9e507bbabdcf70d1c0",
     "size": 244993,
