@@ -25,7 +25,12 @@
       "tagline": "Un servidor con mods para los compas",
       "badge": "Nuevo",
       "color": "#ff0000",
-      "image": "https://cdn.discordapp.com/attachments/1089660721811439716/1562654573817102396/image.png?ex=6adac6fb&is=6ad9757b&hm=1de45b3830722e64e10f778893ac34e2739b3b47754a502b142a07933772afcc&"
+      "image": "https://cdn.discordapp.com/attachments/1089660721811439716/1562654573817102396/image.png?ex=6adac6fb&is=6ad9757b&hm=1de45b3830722e64e10f778893ac34e2739b3b47754a502b142a07933772afcc&",
+      "bgGradient": {
+        "a": "#470000",
+        "b": "#b30000",
+        "angle": 135
+      }
     }
   },
   "gymratas": {
@@ -56,8 +61,13 @@
     },
     "ui": {
       "tagline": "sobrevive",
-      "color": "#5a03fc",
-      "image": "https://cdn.discordapp.com/attachments/1089660721811439716/1562654633388933120/image.png?ex=6adac709&is=6ad97589&hm=39f22573ee969072729594abef3d78609c199c25c3b37614b70cd48e1d0a7381&"
+      "color": "#fc4103",
+      "image": "https://cdn.discordapp.com/attachments/1089660721811439716/1562654633388933120/image.png?ex=6adac709&is=6ad97589&hm=39f22573ee969072729594abef3d78609c199c25c3b37614b70cd48e1d0a7381&",
+      "bgGradient": {
+        "a": "#ea9a2a",
+        "b": "#ff4000",
+        "angle": 135
+      }
     }
   },
   "Planeta Vegeta777": {
@@ -90,6 +100,11 @@
       "tagline": "Revive esos tiempos de cuando no chambiabas",
       "color": "#831cba",
       "image": "https://media.forgecdn.net/avatars/thumbnails/915/894/256/256/638374188324884907.png",
+      "bgGradient": {
+        "a": "#1a3a6b",
+        "b": "#6b1a4a",
+        "angle": 135
+      },
       "featured": true
     }
   }
