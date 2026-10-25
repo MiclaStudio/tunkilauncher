@@ -14,8 +14,11 @@
       "options.txt",
       "optionsof.txt"
     ],
-    "whitelist": [],
-    "whitelistActive": false,
+    "whitelist": [
+      "MadmaxOr",
+      "23chiusmatius"
+    ],
+    "whitelistActive": true,
     "status": {
       "nameServer": "gymrats",
       "ip": "Gymratas.exaroton.me",
@@ -52,8 +55,11 @@
       "options.txt",
       "optionsof.txt"
     ],
-    "whitelist": [],
-    "whitelistActive": false,
+    "whitelist": [
+      "MadmaxOr",
+      "23chiusmatius"
+    ],
+    "whitelistActive": true,
     "status": {
       "nameServer": "Gymrats",
       "ip": "Gymratas.exaroton.me",
@@ -89,8 +95,11 @@
       "options.txt",
       "optionsof.txt"
     ],
-    "whitelist": [],
-    "whitelistActive": false,
+    "whitelist": [
+      "MadmaxOr",
+      "23chiusmatius"
+    ],
+    "whitelistActive": true,
     "status": {
       "nameServer": "planetavegeta777",
       "ip": "planetavegeta777.exaroton.me",
@@ -103,6 +112,44 @@
       "bgGradient": {
         "a": "#1a3a6b",
         "b": "#6b1a4a",
+        "angle": 135
+      }
+    }
+  },
+  "cookiesafio": {
+    "url": "",
+    "loadder": {
+      "minecraft_version": "1.20.1",
+      "loadder_type": "forge",
+      "loadder_version": "latest"
+    },
+    "verify": false,
+    "ignored": [
+      "saves",
+      "screenshots",
+      "logs",
+      "crash-reports",
+      "resourcepacks",
+      "shaderpacks",
+      "servers.dat",
+      "options.txt",
+      "optionsof.txt"
+    ],
+    "whitelist": [],
+    "whitelistActive": false,
+    "status": {
+      "nameServer": "cookiesafio",
+      "ip": "cookiesafio.nexhost.cc",
+      "port": 25565
+    },
+    "ui": {
+      "tagline": "Un servidor inspirado en la grandiosa serie de dedsafio",
+      "badge": "Nuevo",
+      "color": "#b70606",
+      "image": "https://media.discordapp.net/attachments/1558960740637999135/1563950203168362587/6E35D405-11F8-44D9-9669-112BB2CAE702.png?ex=6adf7da1&is=6ade2c21&hm=6405d6f11600b198ee2de7aedf99536396a924257db3a8f6a66be9cfcd8a5a1c&=&format=webp&quality=lossless",
+      "bgGradient": {
+        "a": "#850000",
+        "b": "#420000",
         "angle": 135
       },
       "featured": true
