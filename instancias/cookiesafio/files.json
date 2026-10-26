@@ -1,0 +1,1712 @@
+[
+  {
+    "path": "config/cpm.json",
+    "hash": "e97ade8e893f40f59ffa31460641b7dad03e3e74",
+    "size": 913,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/cpm.json"
+  },
+  {
+    "path": "config/creativecore-client.json",
+    "hash": "2ac12a74fc6c40a697dfeb4ee9eda22e9241a6b7",
+    "size": 23,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/creativecore-client.json"
+  },
+  {
+    "path": "config/creativecore.json",
+    "hash": "b97078641402978a24ffe8af190038943b99438a",
+    "size": 274,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/creativecore.json"
+  },
+  {
+    "path": "config/dramaticdoors-startup.toml",
+    "hash": "664d7d490a41e106c7a3c275e1d962a2772b66ea",
+    "size": 609,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/dramaticdoors-startup.toml"
+  },
+  {
+    "path": "config/entityculling.json",
+    "hash": "71d872172923ba0b593d8654bfd596f9520ddc8b",
+    "size": 2248,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/entityculling.json"
+  },
+  {
+    "path": "config/explosiveenhancement.json",
+    "hash": "5ed6ebd615914c3aea7fa5aab2a568a673d56f29",
+    "size": 885,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/explosiveenhancement.json"
+  },
+  {
+    "path": "config/fabric/indigo-renderer.properties",
+    "hash": "4e6150b8fa74da14ccf8b1b28eeb430873b55485",
+    "size": 290,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/fabric/indigo-renderer.properties"
+  },
+  {
+    "path": "config/ferritecore.mixin.properties",
+    "hash": "8cec200d99bbe46689cbae8df75d62f4d52f68c1",
+    "size": 1615,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/ferritecore.mixin.properties"
+  },
+  {
+    "path": "config/fzzy_config/keybinds.toml",
+    "hash": "f808afa706d9a4934612b20e1efd513416a0e8f1",
+    "size": 6403,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/fzzy_config/keybinds.toml"
+  },
+  {
+    "path": "config/immediatelyfast.json",
+    "hash": "9005fdfb4eeaa64cf158b244b263aa5347d03db0",
+    "size": 1114,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/immediatelyfast.json"
+  },
+  {
+    "path": "config/immersive-hotbar.json5",
+    "hash": "90f2dcfb92aedbc0cb440057b18be082fa5253ad",
+    "size": 1647,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/immersive-hotbar.json5"
+  },
+  {
+    "path": "config/immersive_furniture.json",
+    "hash": "bdbd4af704ea4f78dea85d6cf27e70d43c0a7f8b",
+    "size": 458,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/immersive_furniture.json"
+  },
+  {
+    "path": "config/immersive_paintings/client_config.toml",
+    "hash": "7ad85623ad6e1fced71b2e613ea68b1b5a077d11",
+    "size": 380,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/immersive_paintings/client_config.toml"
+  },
+  {
+    "path": "config/immersive_paintings/common_config.toml",
+    "hash": "a57221cf52695819618c4515f8152d76d489a939",
+    "size": 442,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/immersive_paintings/common_config.toml"
+  },
+  {
+    "path": "config/immersiveui.yaml",
+    "hash": "dbc3de16ba76880816dc263faa746c160bebaf09",
+    "size": 1451,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/immersiveui.yaml"
+  },
+  {
+    "path": "config/lithium.properties",
+    "hash": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+    "size": 267,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/lithium.properties"
+  },
+  {
+    "path": "config/lootbeams/custom_config.toml",
+    "hash": "a483c917de8c9d2289d2bc35524863014d559124",
+    "size": 740,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/lootbeams/custom_config.toml"
+  },
+  {
+    "path": "config/lootbeams/dynamic_config.toml",
+    "hash": "17886fb0c7ba278b4a3a4b999a48eaeeca4a16d0",
+    "size": 114,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/lootbeams/dynamic_config.toml"
+  },
+  {
+    "path": "config/lootbeams/light_config.toml",
+    "hash": "76edc0e0edf390b397115c13f820e780d1406446",
+    "size": 910,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/lootbeams/light_config.toml"
+  },
+  {
+    "path": "config/lootbeams/loot_information_config.toml",
+    "hash": "39f6a1d4fbd9df1553531509c71d32083ea06b72",
+    "size": 556,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/lootbeams/loot_information_config.toml"
+  },
+  {
+    "path": "config/lootbeams/sound_config.toml",
+    "hash": "50cf58ca214507bc93bcf0d5854a04fa0ddf2a41",
+    "size": 208,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/lootbeams/sound_config.toml"
+  },
+  {
+    "path": "config/modmenu.json",
+    "hash": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f",
+    "size": 840,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/modmenu.json"
+  },
+  {
+    "path": "config/moonlight-client.json",
+    "hash": "1692f6d17b0472b49c09a499422ce7aba950990e",
+    "size": 459,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/moonlight-client.json"
+  },
+  {
+    "path": "config/moonlight-common.json",
+    "hash": "c4d8746e5cb8c78b8fdb3f8a91ae2215b9b40c18",
+    "size": 215,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/moonlight-common.json"
+  },
+  {
+    "path": "config/pehkui/config.json",
+    "hash": "9e6ff391cfa00077be401372a851df2db6b70dae",
+    "size": 3344,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/pehkui/config.json"
+  },
+  {
+    "path": "config/pfm.json",
+    "hash": "9919dc440b844b717bd29926cc772b096c1f26bb",
+    "size": 508,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/pfm.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/cs_cz.json",
+    "hash": "80ef270dab711e22c4ec378c006422e99303bf22",
+    "size": 8788,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/cs_cz.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/de_de.json",
+    "hash": "9dbbe34f84e9d012d51f60c0a8435b260fbdc1ad",
+    "size": 8510,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/de_de.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/es_es.json",
+    "hash": "b96432c33123aace28c9915579f2b7e5c841cbea",
+    "size": 9115,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/es_es.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/fr_fr.json",
+    "hash": "ce0e6afc2309001b897ce9ae95e331325c7a48ed",
+    "size": 9154,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/fr_fr.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/he_il.json",
+    "hash": "27fbec3263443459086ed7556fb7dc463eba65b4",
+    "size": 9290,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/he_il.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/ja_jp.json",
+    "hash": "5bf821028b49c9396d3766f34d39e557abfd5536",
+    "size": 9467,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/ja_jp.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/ko_kr.json",
+    "hash": "c75949dcf2d5e543028e3e5da6e7e6782a528e0b",
+    "size": 9208,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/ko_kr.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/pl_pl.json",
+    "hash": "c0d0daedffbb23aa03c45171fa6a38eb47d81f70",
+    "size": 8890,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/pl_pl.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/pt_br.json",
+    "hash": "ed7f5e2c77800a714130a1b4b1cb61d51ba7996f",
+    "size": 9046,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/pt_br.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/ru_ru.json",
+    "hash": "4c1fcc29b549fb6e7846c3f40a4e7b6fc0fb8253",
+    "size": 11446,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/ru_ru.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/sr_sp.json",
+    "hash": "4684ad7158bddec0087bc51bfb22c2578b98172f",
+    "size": 11464,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/sr_sp.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/timestamp",
+    "hash": "4da240332a62881c2e3a5ab6b65c7b16e4a783a9",
+    "size": 13,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/timestamp"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/tr_tr.json",
+    "hash": "b99de0bde19b8f5578262fa6e4c6d9cf2b216d61",
+    "size": 1545,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/tr_tr.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/tt_ru.json",
+    "hash": "340e7fe1b0ef87fceeac610b69075e6f9703e153",
+    "size": 11312,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/tt_ru.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/uk_ua.json",
+    "hash": "467cf07734329628ba17e17c78e2b958ba770166",
+    "size": 10828,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/uk_ua.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/vi_vn.json",
+    "hash": "2c54dc1185c13c49ed97703496ed082988716a35",
+    "size": 10102,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/vi_vn.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/zh_cn.json",
+    "hash": "e47cd96507b3f18a08ef1d9d728c7b5a77bc8ab4",
+    "size": 8123,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/zh_cn.json"
+  },
+  {
+    "path": "config/plasmovoice/.crowdin/zh_tw.json",
+    "hash": "a43069933e0467d3aaa134323411033feba1908b",
+    "size": 8119,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/.crowdin/zh_tw.json"
+  },
+  {
+    "path": "config/plasmovoice/client.toml",
+    "hash": "3220ee34c4669743befa8ae1b40e5a641ddf7d9f",
+    "size": 1617,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/client.toml"
+  },
+  {
+    "path": "config/plasmovoice/meta_cache.json",
+    "hash": "5098808f55123d1165a3f19cef5581a1815d2ba8",
+    "size": 1309,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/meta_cache.json"
+  },
+  {
+    "path": "config/plasmovoice/server/config.toml",
+    "hash": "199531cb118bbba28f3f99bf1d86552acb227a45",
+    "size": 4217,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/config.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/cs_cz.toml",
+    "hash": "01a2944a87e1e5da3ff4872321b9cea705d80da7",
+    "size": 2018,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/cs_cz.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/de_de.toml",
+    "hash": "e4750f54f66a69502befa31c91d17f14ff4b0170",
+    "size": 2187,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/de_de.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/es_es.toml",
+    "hash": "f3d0a48cf500a83b15127d46ec4c820313568d4f",
+    "size": 2123,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/es_es.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/fr_fr.toml",
+    "hash": "47a14d2e2defb9311d8767ea4e2fd96e56d8099c",
+    "size": 2099,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/fr_fr.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/he_il.toml",
+    "hash": "37f952c9737eb17cb600c10967d7338920a62865",
+    "size": 2228,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/he_il.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/ja_jp.toml",
+    "hash": "3b8ae72b73460301786027c694c8ccdfe431d13b",
+    "size": 2508,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/ja_jp.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/ko_kr.toml",
+    "hash": "53db0bd05c9ba2b1c302d76695c780b92b780727",
+    "size": 2356,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/ko_kr.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/pl_pl.toml",
+    "hash": "643a7bf713721276c671d0aa6f94208bad71f1df",
+    "size": 2040,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/pl_pl.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/pt_br.toml",
+    "hash": "3ec4902eeb00b711e29f60719d4b225d4ab144a2",
+    "size": 2035,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/pt_br.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/ru_ru.toml",
+    "hash": "a4947889bdb7366d2e9d890a2b1d16857f406fa1",
+    "size": 2531,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/ru_ru.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/sr_sp.toml",
+    "hash": "8e27071f5477ee29132b779bdfdae73bddea067f",
+    "size": 2599,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/sr_sp.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/timestamp",
+    "hash": "eb2f6cf12b320048c4a814f2c36769d2e75e85cb",
+    "size": 13,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/timestamp"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
+    "hash": "5903fb2c2d0161e8c88b72fa8dd41905368c6b88",
+    "size": 2125,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/tr_tr.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/tt_ru.toml",
+    "hash": "8b07478af298be9244edca8ff155fbfec9694b3c",
+    "size": 2913,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/tt_ru.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/uk_ua.toml",
+    "hash": "fa9f6b2a461728f09e58a18475a9b7d7c7f660e4",
+    "size": 2730,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/uk_ua.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/vi_vn.toml",
+    "hash": "78ca8c0797357ba1d8529dc2e3600da68e21aab2",
+    "size": 2258,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/vi_vn.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/zh_cn.toml",
+    "hash": "b612d0c728e5b17172aa6a9a6c3eed88c420e540",
+    "size": 1882,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/zh_cn.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/.crowdin/zh_tw.toml",
+    "hash": "a0c399b692606034bb1e137d209233761a41cb57",
+    "size": 1879,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/.crowdin/zh_tw.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/cs_cz.toml",
+    "hash": "7d83f44357b7c0c13abba6517102244af6cb0cc3",
+    "size": 2006,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/cs_cz.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/de_de.toml",
+    "hash": "3dcc843533fdbbf020f809a928eaaba5f1093e9c",
+    "size": 2175,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/de_de.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/en_us.toml",
+    "hash": "4a45b87f0c25709382de439bad2181a988652033",
+    "size": 1939,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/en_us.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/es_es.toml",
+    "hash": "ce783516b46c8da21fa4773e91ff87484b13fd5f",
+    "size": 2111,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/es_es.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/fr_fr.toml",
+    "hash": "48b348a32931a9155e53b4501127a6e5db7c672e",
+    "size": 2087,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/fr_fr.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/he_il.toml",
+    "hash": "ce41ad6f3d493ec9dba6a6fe9b36f6f1503d192c",
+    "size": 2216,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/he_il.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/ja_jp.toml",
+    "hash": "b0ab89bf73180ebe779a58a020caa8053392985f",
+    "size": 2496,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/ja_jp.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/ko_kr.toml",
+    "hash": "ecf2220e1ec13ebb3624a789d766b44512118d5a",
+    "size": 2344,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/ko_kr.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/pl_pl.toml",
+    "hash": "10e92cb1c7c34a77cd80f3ad90ee94ee642f5347",
+    "size": 2028,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/pl_pl.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/pt_br.toml",
+    "hash": "97fa78a86a249f99bdedbfffdf8e256e4d1c77f9",
+    "size": 2023,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/pt_br.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/ru_ru.toml",
+    "hash": "9d29ab1ef5a4dc12806589fbe31db4d4908123ec",
+    "size": 2519,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/ru_ru.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/sr_sp.toml",
+    "hash": "95cac2a83860409b6fb20da3b8d8a1b29c96d2f3",
+    "size": 2587,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/sr_sp.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/tr_tr.toml",
+    "hash": "85aadea23d31e089ea5d6d129de98ca594454aff",
+    "size": 2113,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/tr_tr.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/tt_ru.toml",
+    "hash": "afdaa199fb46c3c5277df29031ad90328a487f97",
+    "size": 2901,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/tt_ru.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/uk_ua.toml",
+    "hash": "4c2c41bf5b4314c218d101f966cff3034862a3b3",
+    "size": 2718,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/uk_ua.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/vi_vn.toml",
+    "hash": "b1f7020c2f34381d6bbfcc2d366049e70ead06f9",
+    "size": 2246,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/vi_vn.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/zh_cn.toml",
+    "hash": "cfd4de787ee2cb746864390f182e98f5b8142c58",
+    "size": 1870,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/zh_cn.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/languages/zh_tw.toml",
+    "hash": "2bb9a6db1c99bf02e8ea85c43e6ecd9affe328e8",
+    "size": 1867,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/languages/zh_tw.toml"
+  },
+  {
+    "path": "config/plasmovoice/server/voice_mutes.json",
+    "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+    "size": 2,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/plasmovoice/server/voice_mutes.json"
+  },
+  {
+    "path": "config/ruleta.json",
+    "hash": "9cef2d7d328e692ad87b217a20e5689a16619004",
+    "size": 3175,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/ruleta.json"
+  },
+  {
+    "path": "config/sodium-fingerprint.json",
+    "hash": "35b45fa7ece0e9911d2f760944aae2e6181e6166",
+    "size": 427,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/sodium-fingerprint.json"
+  },
+  {
+    "path": "config/sodium-mixins.properties",
+    "hash": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+    "size": 258,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/sodium-mixins.properties"
+  },
+  {
+    "path": "config/sodium-options.json",
+    "hash": "d765f2ae5a5f66d8959683081dcb56142cf861fa",
+    "size": 761,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/sodium-options.json"
+  },
+  {
+    "path": "config/supplementaries-client.json",
+    "hash": "3dfdd95ca5b5842b423f4c502d10edd8308c54fc",
+    "size": 3349,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/supplementaries-client.json"
+  },
+  {
+    "path": "config/supplementaries-common.json",
+    "hash": "aff173526236ef087cdb1f319eb6e5727beedea1",
+    "size": 11427,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/supplementaries-common.json"
+  },
+  {
+    "path": "config/transition.json",
+    "hash": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
+    "size": 97,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/transition.json"
+  },
+  {
+    "path": "config/trender.json",
+    "hash": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
+    "size": 47,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/trender.json"
+  },
+  {
+    "path": "config/waterconfig.toml",
+    "hash": "cf332c3007cd0a708868dea011847559ea90ead6",
+    "size": 677,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/waterconfig.toml"
+  },
+  {
+    "path": "config/waterframes-client.json",
+    "hash": "b2612006392dd6e08f6ac1264db97f78531fb6e4",
+    "size": 183,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/waterframes-client.json"
+  },
+  {
+    "path": "config/waterframes.json",
+    "hash": "eaaaf56d87213978f36c1040da8d146fdbab1d10",
+    "size": 1768,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/waterframes.json"
+  },
+  {
+    "path": "config/watermedia.toml",
+    "hash": "f4f53e78ca125c1d8cc9cd69116db5ddb80111f9",
+    "size": 8017,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/watermedia.toml"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/.unpack_finished",
+    "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "size": 0,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/.unpack_finished"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/af/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/af/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/an/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/an/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ar/strings.json",
+    "hash": "eb7aca3e7bf344549878fcb30c7f50e66c9c04cd",
+    "size": 4566,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ar/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ast/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ast/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/az/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/az/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ba/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ba/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/be/strings.json",
+    "hash": "c60574caff3a7a6dd8846a49bf80fc25c41f394c",
+    "size": 4057,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/be/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/bg/strings.json",
+    "hash": "91f2ca818a926a9324c3a7b4746e595f1a127121",
+    "size": 4177,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/bg/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/bn/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/bn/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/brb/strings.json",
+    "hash": "a8bcdc99b8f6495d7334069e6f2e92fafc0d69dd",
+    "size": 33977,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/brb/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/bs/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/bs/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ca/strings.json",
+    "hash": "a3b7bdfec7a09c4e38f50f198624768e29b0b5d6",
+    "size": 554,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ca/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/cs/strings.json",
+    "hash": "a475c0587a921c3ac9a00e62e0488ea6cea7e876",
+    "size": 34146,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/cs/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/csb/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/csb/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/cv/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/cv/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/cy/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/cy/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/da/strings.json",
+    "hash": "429a3825a64ea29e8f9dc343af26c46e93951480",
+    "size": 33355,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/da/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json",
+    "hash": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3",
+    "size": 35314,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json",
+    "hash": "ee2f88d02b4817a39fc9095a3258215e6b281899",
+    "size": 34951,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/de/strings.json",
+    "hash": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3",
+    "size": 35314,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/de/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/el/strings.json",
+    "hash": "2322030c3ec0723fe5a5990b11dcda6c9b7d3f3f",
+    "size": 399,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/el/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json",
+    "hash": "f2a641e8fac0e925847b5588a02b6367cb460b21",
+    "size": 1120,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json",
+    "hash": "d76eba76d98123e6d72a0240eab564145a273764",
+    "size": 712,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json",
+    "hash": "324bb32bb400cfa4815f577c188eba10692a87e0",
+    "size": 1992,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json",
+    "hash": "ea11327f71f3917145cdec06d4b1acfb33ebf4e4",
+    "size": 17686,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/enp/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/enp/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/enws/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/enws/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/eo/strings.json",
+    "hash": "7c7e9812a5fea5ff44dafbad060d0631ed22ebbe",
+    "size": 1007,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/eo/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json",
+    "hash": "9adfeda71c19a19422e15d44fa205d7ea7ad8550",
+    "size": 37151,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json",
+    "hash": "933021f931ebfe68b67151c5e45a8bd8082209d8",
+    "size": 37278,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json",
+    "hash": "0deed0fa1021ced81fed248a8bdb250e286e8c22",
+    "size": 37375,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json",
+    "hash": "0deed0fa1021ced81fed248a8bdb250e286e8c22",
+    "size": 37375,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json",
+    "hash": "0deed0fa1021ced81fed248a8bdb250e286e8c22",
+    "size": 37375,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json",
+    "hash": "0deed0fa1021ced81fed248a8bdb250e286e8c22",
+    "size": 37375,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json",
+    "hash": "0deed0fa1021ced81fed248a8bdb250e286e8c22",
+    "size": 37375,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json",
+    "hash": "0b45ee82ef95fae538656c8ea972eb4347f60daf",
+    "size": 37006,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/et/strings.json",
+    "hash": "564747457b4d5540e07571c8df4416cf871246df",
+    "size": 5563,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/et/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/eu/strings.json",
+    "hash": "9fcb595d0c010353f6443cf3da7da04467ca6ee1",
+    "size": 8642,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/eu/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/fa/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/fa/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/fi/strings.json",
+    "hash": "a66a02e0ab974728bb02470ceef4fa5a3ba91721",
+    "size": 1550,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/fi/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/fil/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/fil/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/fo/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/fo/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json",
+    "hash": "631d4916bfcd9878eacec8f7c68f1a9c926bbd7b",
+    "size": 36482,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/fr/strings.json",
+    "hash": "2e44e69ac3b3cb0d5b5b4a30891024a751deee6c",
+    "size": 36433,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/fr/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/gd/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/gd/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/gl/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/gl/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/got/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/got/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/gv/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/gv/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/haw/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/haw/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/he/strings.json",
+    "hash": "98bf778ea8e28e7271e77e170da69813ab532ac7",
+    "size": 1460,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/he/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/hi/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/hi/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/hr/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/hr/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/hu/strings.json",
+    "hash": "9e67f756bbf76d9bb5971f0ec5a8bada354fcda7",
+    "size": 11082,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/hu/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/id/strings.json",
+    "hash": "e5c91a0afa464ef7838af21887a236d6c614d73b",
+    "size": 32634,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/id/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ido/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ido/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ig/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ig/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/is/strings.json",
+    "hash": "8c719af96631d6a6c2d70c8a487c67f617fc0ca9",
+    "size": 279,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/is/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/it/strings.json",
+    "hash": "de2aae20652fc8bb13371ff548397f90652fa44a",
+    "size": 34664,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/it/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ja/strings.json",
+    "hash": "3767e1aaf923e3bc529eaf8a5ae4ee7e16a3c0bb",
+    "size": 31222,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ja/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ka/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ka/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/kab/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/kab/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/kk/strings.json",
+    "hash": "c3eb555e70a93a7e832a7c7e4bcf534c96cc4cb6",
+    "size": 3419,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/kk/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/kn/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/kn/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ko/strings.json",
+    "hash": "695f13aff28997e5bde6ac80958d4b0ded45af5e",
+    "size": 32888,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ko/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json",
+    "hash": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3",
+    "size": 35314,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/kw/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/kw/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/lb/strings.json",
+    "hash": "5184eb63dcc1b5280d91902c7285d1a827643960",
+    "size": 288,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/lb/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/li/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/li/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/lo/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/lo/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/lol/strings.json",
+    "hash": "31e00de07c38a0b3582c0b1bc40e464fdd3357db",
+    "size": 22242,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/lol/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/lt/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/lt/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/lv/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/lv/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/me/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/me/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/mi/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/mi/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/mk/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/mk/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/mn/strings.json",
+    "hash": "5a1347a5588e481dd86ab92dc3ad84f316ff602a",
+    "size": 2954,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/mn/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/moh/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/moh/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ms/strings.json",
+    "hash": "944850a39e093c59a610ede202341a7c2e699ec7",
+    "size": 3636,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ms/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/mt/strings.json",
+    "hash": "235d227d4aeafb56c808c5257509d38c8c40e2c7",
+    "size": 1759,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/mt/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/nds/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/nds/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json",
+    "hash": "d2e863cc39b3f6b4e9bf2a929a5e519e21551e25",
+    "size": 33967,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/nl/strings.json",
+    "hash": "a8bcdc99b8f6495d7334069e6f2e92fafc0d69dd",
+    "size": 33977,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/nl/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json",
+    "hash": "2d906c69f31610b823d1bfd9b183706c4b53df5a",
+    "size": 30808,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/no/strings.json",
+    "hash": "2d906c69f31610b823d1bfd9b183706c4b53df5a",
+    "size": 30808,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/no/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/oc/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/oc/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/oj/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/oj/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/pl/strings.json",
+    "hash": "96152d1ec798b904a136a91dd3fc7ad75381f762",
+    "size": 35297,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/pl/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json",
+    "hash": "1c2f7d815714b620f5af05bb20d5870b4ea3f7f4",
+    "size": 35104,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json",
+    "hash": "088167f7b1d4fec597fe4bab1ce83da896f4115e",
+    "size": 5382,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ro/strings.json",
+    "hash": "dbf641475bc55db3a776a6ca0088cdf835bc0e35",
+    "size": 1737,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ro/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ru/strings.json",
+    "hash": "ddac1ef123dcb4304f2fa10dade354b1d93dcc01",
+    "size": 45491,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ru/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/sah/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/sah/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/se/strings.json",
+    "hash": "0e89ce1223b6b90c69c809a56441d3a9480eeccb",
+    "size": 826,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/se/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/sk/strings.json",
+    "hash": "3460136113848963844612776902d6fa4e6343c8",
+    "size": 10085,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/sk/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/sl/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/sl/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/so/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/so/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/sq/strings.json",
+    "hash": "08655754f4bf8e9ff1aed11cc550ed72f548ad4c",
+    "size": 6753,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/sq/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/sr/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/sr/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/strings.json",
+    "hash": "436a00f5fdc42ab1a37f85391edf7195d48e8cad",
+    "size": 34876,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json",
+    "hash": "53f208f3b22ea139f5be00f0dafb7354e039e3e2",
+    "size": 28327,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/swg/strings.json",
+    "hash": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3",
+    "size": 35314,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/swg/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/szl/strings.json",
+    "hash": "96152d1ec798b904a136a91dd3fc7ad75381f762",
+    "size": 35297,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/szl/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ta/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ta/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/th/strings.json",
+    "hash": "179d4660d37941c7c38bdefee343159692d5f977",
+    "size": 8214,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/th/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/tl/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/tl/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/tr/strings.json",
+    "hash": "184f23e1e58edab8cb0d6ab6d2db950e1ef953e6",
+    "size": 30750,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/tr/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json",
+    "hash": "aa9c516576f2baad19d2d6bc1418479c1840f673",
+    "size": 1536,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/uk/strings.json",
+    "hash": "143663bc5219d1cc2e1f1353658abc67985dba1a",
+    "size": 44755,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/uk/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/uz/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/uz/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/vec/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/vec/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/vi/strings.json",
+    "hash": "2069d274a20fd8b178e30f1c5c4489e2e15a9d83",
+    "size": 5975,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/vi/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/yi/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/yi/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/yo/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/yo/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json",
+    "hash": "0c12e68d945bbc8c87aa3cc54cb4c4c5b324a99d",
+    "size": 32469,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json",
+    "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "size": 3,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json"
+  },
+  {
+    "path": "config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json",
+    "hash": "c4d6ebe6ed9dd694b7eda9be68683faa02e8c322",
+    "size": 32615,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json"
+  },
+  {
+    "path": "config/worldedit/worldedit.properties",
+    "hash": "ee83a3ee598877d1fcfb27adc5f0110fb9678dd2",
+    "size": 2546,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldedit/worldedit.properties"
+  },
+  {
+    "path": "config/worldguard/backup.dat",
+    "hash": "35d7caeef3dd2c0cd01819180cafdb38be5ee313",
+    "size": 2352,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/worldguard/backup.dat"
+  },
+  {
+    "path": "config/xaero/lib/client.cfg",
+    "hash": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+    "size": 26,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/xaero/lib/client.cfg"
+  },
+  {
+    "path": "config/xaero/lib/common.cfg",
+    "hash": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+    "size": 236,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/xaero/lib/common.cfg"
+  },
+  {
+    "path": "config/xaero/lib/profiles/default.cfg",
+    "hash": "253bac0f5181c8db8e488832c46a8d40018650cf",
+    "size": 121,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/xaero/lib/profiles/default.cfg"
+  },
+  {
+    "path": "config/xaero/lib/server_profiles/default.cfg",
+    "hash": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+    "size": 75,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/xaero/lib/server_profiles/default.cfg"
+  },
+  {
+    "path": "config/xaero/world-map/client.cfg",
+    "hash": "27b70648a1bccd0561ae94c0a1a978f283893dea",
+    "size": 521,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/xaero/world-map/client.cfg"
+  },
+  {
+    "path": "config/xaero/world-map/common.cfg",
+    "hash": "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
+    "size": 141,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/xaero/world-map/common.cfg"
+  },
+  {
+    "path": "config/xaero/world-map/profiles/default.cfg",
+    "hash": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e",
+    "size": 1619,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/xaero/world-map/profiles/default.cfg"
+  },
+  {
+    "path": "config/xaero/world-map/server_profiles/default.cfg",
+    "hash": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+    "size": 75,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/xaero/world-map/server_profiles/default.cfg"
+  },
+  {
+    "path": "config/xaeropatreon.txt",
+    "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "size": 0,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/xaeropatreon.txt"
+  },
+  {
+    "path": "config/yacl.json5",
+    "hash": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
+    "size": 250,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/config/yacl.json5"
+  },
+  {
+    "path": "mods/CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
+    "hash": "d134ccaf1030973e47f1b2eac7c834e438ae0ab6",
+    "size": 1257391,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar"
+  },
+  {
+    "path": "mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
+    "hash": "bc902bd297c54d50b1ed7ffd2036464c970b0703",
+    "size": 2845602,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar"
+  },
+  {
+    "path": "mods/ImmediatelyFast-Fabric-1.6.15+1.21.1.jar",
+    "hash": "5067bdff1d5cc6d2dd89986f98bd8bd7ae62fb98",
+    "size": 342235,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar"
+  },
+  {
+    "path": "mods/ImmersiveUI-FABRIC-0.3.3+1.21.1.jar",
+    "hash": "ec425f712f358fe97e3b80c6e3922b73ab529b17",
+    "size": 211187,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/ImmersiveUI-FABRIC-0.3.3%2B1.21.1.jar"
+  },
+  {
+    "path": "mods/Loot Beams Refork-fabric-1.21.1-3.4.7.jar",
+    "hash": "9eb1aa06735e1fd054f961d1ea7b41d2c8bb7909",
+    "size": 519024,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/Loot%20Beams%20Refork-fabric-1.21.1-3.4.7.jar"
+  },
+  {
+    "path": "mods/Nirvana Lib-fabric-1.21.1-2.2.0.jar",
+    "hash": "959a759c35d51c904eb82f2574e0f788a479823d",
+    "size": 1302950,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/Nirvana%20Lib-fabric-1.21.1-2.2.0.jar"
+  },
+  {
+    "path": "mods/OctoLib-FABRIC-0.6.2+1.21.jar",
+    "hash": "e18bf47209c43d2eff882fd906f2cafd887b7378",
+    "size": 543254,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/OctoLib-FABRIC-0.6.2%2B1.21.jar"
+  },
+  {
+    "path": "mods/Pehkui-3.8.3+1.14.4-1.21.jar",
+    "hash": "3ce548910f0aa2cef79dc333982493ccf8d73a3e",
+    "size": 555041,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/Pehkui-3.8.3%2B1.14.4-1.21.jar"
+  },
+  {
+    "path": "mods/another_furniture-fabric-4.0.2.jar",
+    "hash": "c2f992081bdc4795ed6d87771a3b5f7c71103785",
+    "size": 2398841,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/another_furniture-fabric-4.0.2.jar"
+  },
+  {
+    "path": "mods/architectury-13.0.11-fabric.jar",
+    "hash": "18200609d4c3571c4237b50884966f6fd82431ea",
+    "size": 600921,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/architectury-13.0.11-fabric.jar"
+  },
+  {
+    "path": "mods/brrp-fabric-1.0.4-1.21.1.jar",
+    "hash": "da2ac8ced9d62f05f9b93f21549d2f927ae9f4e1",
+    "size": 200631,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/brrp-fabric-1.0.4-1.21.1.jar"
+  },
+  {
+    "path": "mods/cloth-config-15.0.140-fabric.jar",
+    "hash": "5d82342a2df53fd6df712bfdd583a811572918a4",
+    "size": 1157166,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/cloth-config-15.0.140-fabric.jar"
+  },
+  {
+    "path": "mods/common-networking-fabric-1.0.21-1.21.1.jar",
+    "hash": "2ff48203cec0247792234de3375b5db06ca42fb4",
+    "size": 26543,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/common-networking-fabric-1.0.21-1.21.1.jar"
+  },
+  {
+    "path": "mods/entityculling-fabric-1.11.3-mc1.21.1.jar",
+    "hash": "5a65a3944e32cc57b73b0f208d15d16fe9df4ed1",
+    "size": 1519243,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/entityculling-fabric-1.11.3-mc1.21.1.jar"
+  },
+  {
+    "path": "mods/explosive-enhancement-1.3.2-1.21-1.21.1.jar",
+    "hash": "07725f58e05d46e1a3d9bb774e6b96c6fbe5dcb5",
+    "size": 114621,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/explosive-enhancement-1.3.2-1.21-1.21.1.jar"
+  },
+  {
+    "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+    "hash": "810b2b0195371a012906241d8b85a32a1d6de53c",
+    "size": 2452735,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/fabric-api-0.116.17%2B1.21.1.jar"
+  },
+  {
+    "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+    "hash": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
+    "size": 8142878,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar"
+  },
+  {
+    "path": "mods/ferritecore-7.0.3-fabric.jar",
+    "hash": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
+    "size": 123450,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/ferritecore-7.0.3-fabric.jar"
+  },
+  {
+    "path": "mods/fzzy_config-0.7.7+1.21.jar",
+    "hash": "5e96a2f5b0a26417c7f10f5bdbeaa62ec4ec4cd9",
+    "size": 2387721,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/fzzy_config-0.7.7%2B1.21.jar"
+  },
+  {
+    "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
+    "hash": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646",
+    "size": 664463,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/geckolib-fabric-1.21.1-4.9.3.jar"
+  },
+  {
+    "path": "mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar",
+    "hash": "b2809b3f433eaa5805e23a7ccb950b71051e2f89",
+    "size": 124688,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar"
+  },
+  {
+    "path": "mods/immersive_furniture-fabric-0.3.4+1.21.1.jar",
+    "hash": "143bce3db1cd73fa725776283a134f022237f887",
+    "size": 1029478,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/immersive_furniture-fabric-0.3.4%2B1.21.1.jar"
+  },
+  {
+    "path": "mods/immersive_paintings-fabric-1.21.1-0.7.9.jar",
+    "hash": "db3c22af4d03d7318f3e430a5af5c9a20775898e",
+    "size": 5520603,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/immersive_paintings-fabric-1.21.1-0.7.9.jar"
+  },
+  {
+    "path": "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar.disabled",
+    "hash": "6776c0340845887477bfa463acc736ce7fcb6de5",
+    "size": 2791343,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar.disabled"
+  },
+  {
+    "path": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
+    "hash": "7d82a004403b7780d4443d8e40361a55cfd0ae63",
+    "size": 797454,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+  },
+  {
+    "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+    "hash": "4c914a4d3bb84103b34346e60c6aa981be8dfa23",
+    "size": 2087232,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar"
+  },
+  {
+    "path": "mods/modmenu-11.0.5.jar",
+    "hash": "2321d890a25b5985eba576d7cd8fe9a9c136e33d",
+    "size": 975846,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/modmenu-11.0.5.jar"
+  },
+  {
+    "path": "mods/moonlight-1.21.1-3.7.2-fabric.jar",
+    "hash": "7db7c0999fb29579790edae83292622cee933e20",
+    "size": 2325731,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/moonlight-1.21.1-3.7.2-fabric.jar"
+  },
+  {
+    "path": "mods/morpher-1.1.5.jar",
+    "hash": "b3d60a7ef18db96e1ec73d798bad5612f95981e4",
+    "size": 393390,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/morpher-1.1.5.jar"
+  },
+  {
+    "path": "mods/paladin-furniture-mod-1.5.0-fabric-mc1.21.1.jar",
+    "hash": "bb4a693cd385be4af16ff52c64b57a9ff7f5504c",
+    "size": 6203510,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/paladin-furniture-mod-1.5.0-fabric-mc1.21.1.jar"
+  },
+  {
+    "path": "mods/placeholder-api-2.4.2+1.21.jar",
+    "hash": "aa1b9a49f9f190dfe4825c502b150817dd2998c3",
+    "size": 232325,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/placeholder-api-2.4.2%2B1.21.jar"
+  },
+  {
+    "path": "mods/plasmovoice-fabric-1.21.1-2.2.0-beta.2.jar",
+    "hash": "f92e3e273f9b7f9d3a11675d3bda40c8656994d8",
+    "size": 12886906,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/plasmovoice-fabric-1.21.1-2.2.0-beta.2.jar"
+  },
+  {
+    "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+    "hash": "003c114c85ca88ef3362e018deb6aca0c682d6a1",
+    "size": 1574609,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
+  },
+  {
+    "path": "mods/supplementaries-1.21.1-4.0.2-fabric.jar",
+    "hash": "761a561938ced83d5e38da50cdc44899b5052f3e",
+    "size": 13669146,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/supplementaries-1.21.1-4.0.2-fabric.jar"
+  },
+  {
+    "path": "mods/xaeroworldmap-fabric-1.21.1-1.47.0.jar",
+    "hash": "db7ad23fe512dbc13a8286844fd9277c08a7ef5a",
+    "size": 1456162,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/xaeroworldmap-fabric-1.21.1-1.47.0.jar"
+  },
+  {
+    "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+    "hash": "e075503382f70715ab9fc6f66d603397a86eb3e0",
+    "size": 1131265,
+    "url": "https://raw.githubusercontent.com/MiclaStudio/tunkilauncher/main/instancias/cookiesafio/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
+  }
+]
