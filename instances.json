@@ -117,7 +117,7 @@
     }
   },
   "cookiesafio": {
-    "url": "",
+    "url": "https://github.com/MiclaStudio/tunkilauncher/blob/main/instancias/cookiesafio/files.json",
     "loadder": {
       "minecraft_version": "1.20.1",
       "loadder_type": "forge",
