@@ -1,0 +1,113 @@
+{
+  "meteoritos": {
+    "solos": false,
+    "cada": 10,
+    "cerca": 15,
+    "crater": true,
+    "fuego": true,
+    "golpe": true,
+    "dano": 30.0
+  },
+  "mensajes": {
+    "rojo": {
+      "titulo": "RULETA {COLOR}:",
+      "texto": "El jugador {jugador} giró la ruleta y salió {COLOR}.",
+      "mostrar": true,
+      "aviso": true,
+      "tiempo": "00:00"
+    },
+    "rosa": {
+      "titulo": "RULETA {COLOR}:",
+      "texto": "El jugador {jugador} giró la ruleta y salió {COLOR}.",
+      "mostrar": true,
+      "aviso": true,
+      "tiempo": "00:00"
+    },
+    "morado": {
+      "titulo": "RULETA {COLOR}:",
+      "texto": "El jugador Kkittymeow ha sido baneada por manca de mierda",
+      "mostrar": true,
+      "aviso": true,
+      "tiempo": "00:00"
+    },
+    "azul": {
+      "titulo": "RULETA {COLOR}:",
+      "texto": "El jugador {jugador} giró la ruleta y salió {COLOR}.",
+      "mostrar": true,
+      "aviso": true,
+      "tiempo": "00:00"
+    },
+    "cian": {
+      "titulo": "MISION DIARIA:",
+      "texto": "Los jugadores deveran conseguir 24 diamantes y con eso conseguir full diamond para poder estar mas equipados",
+      "mostrar": true,
+      "aviso": true,
+      "tiempo": "00:00"
+    },
+    "verde": {
+      "titulo": "RULETA {COLOR}:",
+      "texto": "La primera persona q llegue al bunker recivira una pequeña recompensa por ser el más rapido.",
+      "mostrar": true,
+      "aviso": true,
+      "tiempo": "00:00"
+    },
+    "amarillo": {
+      "titulo": "RULETA {COLOR}:",
+      "texto": "El jugador {jugador} giró la ruleta y salió {COLOR}.",
+      "mostrar": true,
+      "aviso": true,
+      "tiempo": "00:00"
+    },
+    "naranja": {
+      "titulo": "RULETA {COLOR}:",
+      "texto": "hola putos todos",
+      "mostrar": true,
+      "aviso": true,
+      "tiempo": "00:00"
+    }
+  },
+  "reviil": {
+    "titulo": "MOMENTO REVIIL:",
+    "mensaje": "¡Reviil ha lanzado un gas toxico como tu ex, y deven más\n arriba de la capa 250 en 5 min, de lo contrario reciviran \ndaño hasta morir.",
+    "tiempo": "01:00",
+    "mostrar_mensaje": true,
+    "mostrar_aviso": true,
+    "nivel_temblor": 1,
+    "cielo_espera": 11.1,
+    "cielo_cubrir": 60.0,
+    "cielo_despejar": 15.0,
+    "cielo_animacion": 3,
+    "grieta_rayo": 3.6,
+    "grieta_abrir": 1.2,
+    "grieta_cerrar": 1.5,
+    "grieta_grados": 100.0,
+    "ceguera": false,
+    "ceguera_segundos": 30,
+    "sin_regeneracion": false,
+    "vida_oculta": false,
+    "gas": true,
+    "gas_capa": 250,
+    "gas_lado": "arriba",
+    "gas_dano": 8,
+    "gas_dura": "00:00",
+    "bunker": false,
+    "rayo_dano": 4,
+    "rayo_cada": 1,
+    "rayo_dura": "00:00",
+    "creeper_vida": 1,
+    "creeper_electrico": true
+  },
+  "nutria": {
+    "titulo": "MOMENTO NUTRIA:",
+    "mensaje": "¡El Momento Nutria ha llegado! Los Guardianes y las Nutrias han preparado un juego especial para competir por una jugosa recompensa. Al finalizar el contador, serán teletransportados a la Isla de las Nutrias.",
+    "tiempo": "03:00",
+    "mostrar_mensaje": true,
+    "mostrar_aviso": true
+  },
+  "editor": {
+    "max_bloques": 2000000,
+    "deshacer": 20,
+    "deshacer_bloques": 6000000,
+    "ms_por_tick": 15
+  }
+}
